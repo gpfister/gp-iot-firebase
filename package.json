@@ -1,0 +1,30 @@
+{
+  "name": "gp-iot-firebase",
+  "version": "0.0.1",
+  "description": "Greg's IoT Firebase Backend",
+  "scripts": {
+    "test": "(cd test; npm test)",
+    "deploy": "firebase deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gpfister/gp-iot-firebase.git"
+  },
+  "keywords": [
+    "firebase",
+    "iot",
+    "backend",
+    "typescript",
+    "emulators",
+    "firestore",
+    "storage",
+    "functions",
+    "pubsub"
+  ],
+  "author": "Greg PFISTER",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gpfister/gp-iot-firebase/issues"
+  },
+  "homepage": "https://github.com/gpfister/gp-iot-firebase#readme"
+}
